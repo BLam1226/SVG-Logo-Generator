@@ -1,6 +1,17 @@
 {
-  "dependencies": {
-    "inquirer": "^8.2.4",
+  "name": "SVG-Generator",
+  "version": "1.0.0",
+  "description": "A simple SVG generator that takes in user input and generates a SVG Logo file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
     "jest": "^29.6.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
