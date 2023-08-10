@@ -27,6 +27,9 @@ no idea
 ## Tests
   npm test
 
+https://github.com/BLam1226/SVG-Logo-Generator/assets/127125695/3d034bfa-f20c-4a30-9cf2-d3ff283c5060
+![Screenshot 2023-08-10 044449](https://github.com/BLam1226/SVG-Logo-Generator/assets/127125695/e3379fe2-5945-41c8-bd56-8192e4e981f5)
+
 ## License
 This project is licensed under the MIT License. Click the License Badge for details.
 
